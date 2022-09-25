@@ -1,12 +1,17 @@
-# Getting Started with Create React App
+# Landon Spell Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="2458" alt="Screen Shot 2022-09-25 at 3 43 30 PM" src="https://user-images.githubusercontent.com/56459233/192164894-1cf9626c-166b-4d92-a635-e4d54e051638.png">
+<img width="2454" alt="Screen Shot 2022-09-25 at 3 43 40 PM" src="https://user-images.githubusercontent.com/56459233/192164899-89b248e4-7d0d-46ac-8c7d-940489f42cf9.png">
+
+## Description
+
+This was built using React (TypeScript) with TailwindCSS and Sanity.io for the CMS. 
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
