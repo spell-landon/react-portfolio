@@ -73,7 +73,7 @@ function App() {
               element={<NotFound colorVariant={colorVariant} />}
             />
           </Routes>
-          <Projects colorVariant={colorVariant} />
+          <Projects data={projectData} colorVariant={colorVariant} />
         </main>
       </Layout>
     </div>
